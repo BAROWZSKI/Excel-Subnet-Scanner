@@ -5,6 +5,8 @@
 
 A VBA macro that scans subnets defined in an Excel sheet, checks IP availability via ping, resolves hostnames via DNS, and writes results back — all unattended. Designed to run silently on a Windows server via Task Scheduler.
 
+![ExampleExcel](/img.png "example")
+
 ---
 
 ## How It Works
